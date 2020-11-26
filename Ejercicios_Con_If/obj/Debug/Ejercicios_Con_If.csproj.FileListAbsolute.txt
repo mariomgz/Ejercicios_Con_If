@@ -1,0 +1,7 @@
+C:\Users\Beto\source\repos\Ejercicios_Con_If\Ejercicios_Con_If\bin\Debug\Ejercicios_Con_If.exe.config
+C:\Users\Beto\source\repos\Ejercicios_Con_If\Ejercicios_Con_If\bin\Debug\Ejercicios_Con_If.exe
+C:\Users\Beto\source\repos\Ejercicios_Con_If\Ejercicios_Con_If\bin\Debug\Ejercicios_Con_If.pdb
+C:\Users\Beto\source\repos\Ejercicios_Con_If\Ejercicios_Con_If\obj\Debug\Ejercicios_Con_If.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\Ejercicios_Con_If\Ejercicios_Con_If\obj\Debug\Ejercicios_Con_If.csproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\Ejercicios_Con_If\Ejercicios_Con_If\obj\Debug\Ejercicios_Con_If.exe
+C:\Users\Beto\source\repos\Ejercicios_Con_If\Ejercicios_Con_If\obj\Debug\Ejercicios_Con_If.pdb
